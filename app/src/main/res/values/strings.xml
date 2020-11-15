@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LauncherApp</string>
+    <string name="search_title">title</string>
+    <string name="search_edit_text_hint">Search for Apps</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_edit_text_ht">40dp</dimen>
+    <dimen name="search_edit_text_padding_left">20sp</dimen>
+    <dimen name="app_icon_width">50dp</dimen>
+    <dimen name="app_icon_ht">50dp</dimen>
+    <dimen name="app_name_text_view_width">65dp</dimen>
+    <dimen name="app_text_size">12sp</dimen>
+    <dimen name="app_name_text_view_padding_bottom">20dp</dimen>
+    <dimen name="launcher_app_view_padding">12dp</dimen>
+</resources>
